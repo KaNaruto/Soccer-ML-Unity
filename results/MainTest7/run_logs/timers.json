@@ -1,0 +1,42 @@
+{
+    "name": "root",
+    "metadata": {
+        "timer_format_version": "0.1.0",
+        "start_time_seconds": "1724501018",
+        "python_version": "3.9.13 (tags/v3.9.13:6de2ca5, May 17 2022, 16:36:42) [MSC v.1929 64 bit (AMD64)]",
+        "command_line_arguments": "C:\\Users\\rockw\\Downloads\\Games\\Soccer ML\\venv\\Scripts\\mlagents-learn config\\MoveToGoal.yaml --run-id=MainTest7 --resume",
+        "mlagents_version": "0.30.0",
+        "mlagents_envs_version": "0.30.0",
+        "communication_protocol_version": "1.5.0",
+        "pytorch_version": "2.4.0+cpu",
+        "numpy_version": "1.21.2",
+        "end_time_seconds": "1724501081"
+    },
+    "total": 63.3776271,
+    "count": 1,
+    "self": 0.0138733000000002,
+    "children": {
+        "run_training.setup": {
+            "total": 0.22678509999999985,
+            "count": 1,
+            "self": 0.22678509999999985
+        },
+        "TrainerController.start_learning": {
+            "total": 63.1369687,
+            "count": 1,
+            "self": 0.0003722999999951071,
+            "children": {
+                "TrainerController._reset_env": {
+                    "total": 63.136497000000006,
+                    "count": 1,
+                    "self": 63.136497000000006
+                },
+                "TrainerController._save_models": {
+                    "total": 9.9399999996308e-05,
+                    "count": 1,
+                    "self": 9.9399999996308e-05
+                }
+            }
+        }
+    }
+}

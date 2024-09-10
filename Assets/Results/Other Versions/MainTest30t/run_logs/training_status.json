@@ -1,0 +1,123 @@
+{
+    "RedAgent": {
+        "checkpoints": [
+            {
+                "steps": 14499936,
+                "file_path": "results\\MainTest30\\RedAgent\\RedAgent-14499936.onnx",
+                "reward": null,
+                "creation_time": 1725848554.5976863,
+                "auxillary_file_paths": [
+                    "results\\MainTest30\\RedAgent\\RedAgent-14499936.pt"
+                ]
+            },
+            {
+                "steps": 14999968,
+                "file_path": "results\\MainTest30\\RedAgent\\RedAgent-14999968.onnx",
+                "reward": 8.027464474240938,
+                "creation_time": 1725849996.9650025,
+                "auxillary_file_paths": [
+                    "results\\MainTest30\\RedAgent\\RedAgent-14999968.pt"
+                ]
+            },
+            {
+                "steps": 15499968,
+                "file_path": "results\\MainTest30\\RedAgent\\RedAgent-15499968.onnx",
+                "reward": null,
+                "creation_time": 1725851439.3925014,
+                "auxillary_file_paths": [
+                    "results\\MainTest30\\RedAgent\\RedAgent-15499968.pt"
+                ]
+            },
+            {
+                "steps": 15999984,
+                "file_path": "results\\MainTest30\\RedAgent\\RedAgent-15999984.onnx",
+                "reward": 8.98589094976584,
+                "creation_time": 1725852887.757754,
+                "auxillary_file_paths": [
+                    "results\\MainTest30\\RedAgent\\RedAgent-15999984.pt"
+                ]
+            },
+            {
+                "steps": 16199136,
+                "file_path": "results\\MainTest30\\RedAgent\\RedAgent-16199136.onnx",
+                "reward": null,
+                "creation_time": 1725853531.6960123,
+                "auxillary_file_paths": [
+                    "results\\MainTest30\\RedAgent\\RedAgent-16199136.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 16199136,
+            "file_path": "results\\MainTest30\\RedAgent.onnx",
+            "reward": null,
+            "creation_time": 1725853531.6960123,
+            "auxillary_file_paths": [
+                "results\\MainTest30\\RedAgent\\RedAgent-16199136.pt"
+            ]
+        }
+    },
+    "BlueAgent": {
+        "checkpoints": [
+            {
+                "steps": 14499936,
+                "file_path": "results\\MainTest30\\BlueAgent\\BlueAgent-14499936.onnx",
+                "reward": null,
+                "creation_time": 1725848554.5120194,
+                "auxillary_file_paths": [
+                    "results\\MainTest30\\BlueAgent\\BlueAgent-14499936.pt"
+                ]
+            },
+            {
+                "steps": 14999968,
+                "file_path": "results\\MainTest30\\BlueAgent\\BlueAgent-14999968.onnx",
+                "reward": 15.810063142950336,
+                "creation_time": 1725849996.8918388,
+                "auxillary_file_paths": [
+                    "results\\MainTest30\\BlueAgent\\BlueAgent-14999968.pt"
+                ]
+            },
+            {
+                "steps": 15499968,
+                "file_path": "results\\MainTest30\\BlueAgent\\BlueAgent-15499968.onnx",
+                "reward": null,
+                "creation_time": 1725851439.3123803,
+                "auxillary_file_paths": [
+                    "results\\MainTest30\\BlueAgent\\BlueAgent-15499968.pt"
+                ]
+            },
+            {
+                "steps": 15999984,
+                "file_path": "results\\MainTest30\\BlueAgent\\BlueAgent-15999984.onnx",
+                "reward": 17.823563718547422,
+                "creation_time": 1725852887.8351634,
+                "auxillary_file_paths": [
+                    "results\\MainTest30\\BlueAgent\\BlueAgent-15999984.pt"
+                ]
+            },
+            {
+                "steps": 16199136,
+                "file_path": "results\\MainTest30\\BlueAgent\\BlueAgent-16199136.onnx",
+                "reward": null,
+                "creation_time": 1725853531.6262007,
+                "auxillary_file_paths": [
+                    "results\\MainTest30\\BlueAgent\\BlueAgent-16199136.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 16199136,
+            "file_path": "results\\MainTest30\\BlueAgent.onnx",
+            "reward": null,
+            "creation_time": 1725853531.6262007,
+            "auxillary_file_paths": [
+                "results\\MainTest30\\BlueAgent\\BlueAgent-16199136.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.30.0",
+        "torch_version": "2.4.0+cpu"
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "SoccerAgent": {
+        "checkpoints": [
+            {
+                "steps": 499968,
+                "file_path": "results\\MainTest6\\SoccerAgent\\SoccerAgent-499968.onnx",
+                "reward": null,
+                "creation_time": 1724276575.5450914,
+                "auxillary_file_paths": [
+                    "results\\MainTest6\\SoccerAgent\\SoccerAgent-499968.pt"
+                ]
+            },
+            {
+                "steps": 999936,
+                "file_path": "results\\MainTest6\\SoccerAgent\\SoccerAgent-999936.onnx",
+                "reward": null,
+                "creation_time": 1724277242.1073203,
+                "auxillary_file_paths": [
+                    "results\\MainTest6\\SoccerAgent\\SoccerAgent-999936.pt"
+                ]
+            },
+            {
+                "steps": 1499968,
+                "file_path": "results\\MainTest6\\SoccerAgent\\SoccerAgent-1499968.onnx",
+                "reward": 20.80964634567499,
+                "creation_time": 1724277907.526338,
+                "auxillary_file_paths": [
+                    "results\\MainTest6\\SoccerAgent\\SoccerAgent-1499968.pt"
+                ]
+            },
+            {
+                "steps": 1817472,
+                "file_path": "results\\MainTest6\\SoccerAgent\\SoccerAgent-1817472.onnx",
+                "reward": null,
+                "creation_time": 1724278390.9942448,
+                "auxillary_file_paths": [
+                    "results\\MainTest6\\SoccerAgent\\SoccerAgent-1817472.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 1817472,
+            "file_path": "results\\MainTest6\\SoccerAgent.onnx",
+            "reward": null,
+            "creation_time": 1724278390.9942448,
+            "auxillary_file_paths": [
+                "results\\MainTest6\\SoccerAgent\\SoccerAgent-1817472.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.30.0",
+        "torch_version": "2.4.0+cpu"
+    }
+}

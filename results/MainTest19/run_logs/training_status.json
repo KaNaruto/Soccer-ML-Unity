@@ -1,0 +1,65 @@
+{
+    "SoccerAgent": {
+        "checkpoints": [
+            {
+                "steps": 1999936,
+                "file_path": "results\\MainTest19\\SoccerAgent\\SoccerAgent-1999936.onnx",
+                "reward": null,
+                "creation_time": 1724424841.5781565,
+                "auxillary_file_paths": [
+                    "results\\MainTest19\\SoccerAgent\\SoccerAgent-1999936.pt"
+                ]
+            },
+            {
+                "steps": 2499968,
+                "file_path": "results\\MainTest19\\SoccerAgent\\SoccerAgent-2499968.onnx",
+                "reward": null,
+                "creation_time": 1724425522.0430045,
+                "auxillary_file_paths": [
+                    "results\\MainTest19\\SoccerAgent\\SoccerAgent-2499968.pt"
+                ]
+            },
+            {
+                "steps": 2999936,
+                "file_path": "results\\MainTest19\\SoccerAgent\\SoccerAgent-2999936.onnx",
+                "reward": null,
+                "creation_time": 1724426201.3073611,
+                "auxillary_file_paths": [
+                    "results\\MainTest19\\SoccerAgent\\SoccerAgent-2999936.pt"
+                ]
+            },
+            {
+                "steps": 3499968,
+                "file_path": "results\\MainTest19\\SoccerAgent\\SoccerAgent-3499968.onnx",
+                "reward": 20.151239713653922,
+                "creation_time": 1724426878.6812541,
+                "auxillary_file_paths": [
+                    "results\\MainTest19\\SoccerAgent\\SoccerAgent-3499968.pt"
+                ]
+            },
+            {
+                "steps": 3525888,
+                "file_path": "results\\MainTest19\\SoccerAgent\\SoccerAgent-3525888.onnx",
+                "reward": null,
+                "creation_time": 1724426979.0211356,
+                "auxillary_file_paths": [
+                    "results\\MainTest19\\SoccerAgent\\SoccerAgent-3525888.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 3525888,
+            "file_path": "results\\MainTest19\\SoccerAgent.onnx",
+            "reward": null,
+            "creation_time": 1724426979.0211356,
+            "auxillary_file_paths": [
+                "results\\MainTest19\\SoccerAgent\\SoccerAgent-3525888.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.30.0",
+        "torch_version": "2.4.0+cpu"
+    }
+}

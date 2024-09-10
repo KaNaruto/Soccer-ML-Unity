@@ -1,0 +1,47 @@
+{
+    "SoccerBehavior": {
+        "checkpoints": [
+            {
+                "steps": 499958,
+                "file_path": "results\\ppo\\SoccerBehavior\\SoccerBehavior-499958.onnx",
+                "reward": null,
+                "creation_time": 1724208043.6805453,
+                "auxillary_file_paths": [
+                    "results\\ppo\\SoccerBehavior\\SoccerBehavior-499958.pt"
+                ]
+            },
+            {
+                "steps": 999970,
+                "file_path": "results\\ppo\\SoccerBehavior\\SoccerBehavior-999970.onnx",
+                "reward": 0.0,
+                "creation_time": 1724208972.649467,
+                "auxillary_file_paths": [
+                    "results\\ppo\\SoccerBehavior\\SoccerBehavior-999970.pt"
+                ]
+            },
+            {
+                "steps": 1000242,
+                "file_path": "results\\ppo\\SoccerBehavior\\SoccerBehavior-1000242.onnx",
+                "reward": 0.0,
+                "creation_time": 1724208972.7354858,
+                "auxillary_file_paths": [
+                    "results\\ppo\\SoccerBehavior\\SoccerBehavior-1000242.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 1000242,
+            "file_path": "results\\ppo\\SoccerBehavior.onnx",
+            "reward": 0.0,
+            "creation_time": 1724208972.7354858,
+            "auxillary_file_paths": [
+                "results\\ppo\\SoccerBehavior\\SoccerBehavior-1000242.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.30.0",
+        "torch_version": "2.4.0+cpu"
+    }
+}

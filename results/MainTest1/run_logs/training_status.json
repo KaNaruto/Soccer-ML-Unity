@@ -1,0 +1,123 @@
+{
+    "RedTT": {
+        "checkpoints": [
+            {
+                "steps": 1000413,
+                "file_path": "results\\MainTest1\\RedTT\\RedTT-1000413.onnx",
+                "reward": null,
+                "creation_time": 1724240027.8493328,
+                "auxillary_file_paths": [
+                    "results\\MainTest1\\RedTT\\RedTT-1000413.pt"
+                ]
+            },
+            {
+                "steps": 1499951,
+                "file_path": "results\\MainTest1\\RedTT\\RedTT-1499951.onnx",
+                "reward": null,
+                "creation_time": 1724242274.8939588,
+                "auxillary_file_paths": [
+                    "results\\MainTest1\\RedTT\\RedTT-1499951.pt"
+                ]
+            },
+            {
+                "steps": 1999940,
+                "file_path": "results\\MainTest1\\RedTT\\RedTT-1999940.onnx",
+                "reward": 0.0,
+                "creation_time": 1724244340.9518259,
+                "auxillary_file_paths": [
+                    "results\\MainTest1\\RedTT\\RedTT-1999940.pt"
+                ]
+            },
+            {
+                "steps": 2499986,
+                "file_path": "results\\MainTest1\\RedTT\\RedTT-2499986.onnx",
+                "reward": null,
+                "creation_time": 1724246394.812107,
+                "auxillary_file_paths": [
+                    "results\\MainTest1\\RedTT\\RedTT-2499986.pt"
+                ]
+            },
+            {
+                "steps": 2936835,
+                "file_path": "results\\MainTest1\\RedTT\\RedTT-2936835.onnx",
+                "reward": 0.0,
+                "creation_time": 1724248284.095592,
+                "auxillary_file_paths": [
+                    "results\\MainTest1\\RedTT\\RedTT-2936835.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 2936835,
+            "file_path": "results\\MainTest1\\RedTT.onnx",
+            "reward": 0.0,
+            "creation_time": 1724248284.095592,
+            "auxillary_file_paths": [
+                "results\\MainTest1\\RedTT\\RedTT-2936835.pt"
+            ]
+        }
+    },
+    "BlueTT": {
+        "checkpoints": [
+            {
+                "steps": 1000349,
+                "file_path": "results\\MainTest1\\BlueTT\\BlueTT-1000349.onnx",
+                "reward": null,
+                "creation_time": 1724240027.7939346,
+                "auxillary_file_paths": [
+                    "results\\MainTest1\\BlueTT\\BlueTT-1000349.pt"
+                ]
+            },
+            {
+                "steps": 1499951,
+                "file_path": "results\\MainTest1\\BlueTT\\BlueTT-1499951.onnx",
+                "reward": null,
+                "creation_time": 1724242272.0110009,
+                "auxillary_file_paths": [
+                    "results\\MainTest1\\BlueTT\\BlueTT-1499951.pt"
+                ]
+            },
+            {
+                "steps": 1999940,
+                "file_path": "results\\MainTest1\\BlueTT\\BlueTT-1999940.onnx",
+                "reward": null,
+                "creation_time": 1724244340.408901,
+                "auxillary_file_paths": [
+                    "results\\MainTest1\\BlueTT\\BlueTT-1999940.pt"
+                ]
+            },
+            {
+                "steps": 2499986,
+                "file_path": "results\\MainTest1\\BlueTT\\BlueTT-2499986.onnx",
+                "reward": null,
+                "creation_time": 1724246392.0283794,
+                "auxillary_file_paths": [
+                    "results\\MainTest1\\BlueTT\\BlueTT-2499986.pt"
+                ]
+            },
+            {
+                "steps": 2936771,
+                "file_path": "results\\MainTest1\\BlueTT\\BlueTT-2936771.onnx",
+                "reward": null,
+                "creation_time": 1724248284.1526766,
+                "auxillary_file_paths": [
+                    "results\\MainTest1\\BlueTT\\BlueTT-2936771.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 2936771,
+            "file_path": "results\\MainTest1\\BlueTT.onnx",
+            "reward": null,
+            "creation_time": 1724248284.1526766,
+            "auxillary_file_paths": [
+                "results\\MainTest1\\BlueTT\\BlueTT-2936771.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.30.0",
+        "torch_version": "2.4.0+cpu"
+    }
+}
