@@ -7,15 +7,6 @@ SoccerML-Unity is a Unity project that implements an AI-driven soccer simulation
 ![ezgif-2-46db12aa91](https://github.com/user-attachments/assets/45558a36-fd16-496f-b6d3-1150d7e912e4)
 
 
-
-
-
-## Features
-
-- **AI-Driven Soccer Agents:** Agents can interact with the ball, move towards goals, pass, intercept, and shoot.
-- **Reward System:** Agents receive rewards for passing, intercepting, scoring, and are penalized for own goals and losing possession.
-- **Unity ML-Agents Integration:** The project uses ML-Agents for training the soccer agents with observations and actions.
-
 ## How to Run
 
 1. Clone the repository:
